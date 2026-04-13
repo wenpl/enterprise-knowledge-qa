@@ -22,7 +22,6 @@
 ### 1. 安装依赖
 
 ```bash
-cd ai_pm_project
 pip install -r requirements.txt
 ```
 
