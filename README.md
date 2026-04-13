@@ -82,13 +82,3 @@ ai_pm_project/
 1. 访问 https://dashscope.aliyun.com/
 2. 注册账号并登录
 3. 开通服务并获取API Key
-
-## 成本估算
-
-- 智谱GLM-4-flash: 约0.001元/千token
-- Embedding: 约0.0005元/千token
-- 月均成本: 约50元（中等使用量）
-
-## 作者
-
-[你的名字] - AI产品经理面试项目
